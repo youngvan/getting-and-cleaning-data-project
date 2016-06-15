@@ -24,12 +24,7 @@ You will get tidy.txt file as a result
 
 There is several steps in the script:
 
-1. Reading data sets:
-
-- Reading trainin data set
-- Reading testing data set
-- Reading activities data set
-- Reading features data set
+1. Reading data sets
 
 2. Standardizing captions
 
