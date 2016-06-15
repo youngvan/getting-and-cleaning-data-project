@@ -27,8 +27,11 @@ There is several steps in the script:
 1. Reading data sets:
 
 1.1 Reading trainin data set
+
 1.2 Reading testing data set
+
 1.3 Reading activities data set
+
 1.4 Reading features data set
 
 2. Standardizing captions
